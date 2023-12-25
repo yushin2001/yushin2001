@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 👩‍🎓 I am a Master student at National Taiwan University
+- 📮 Contact: yushinwu.angela@gmail.com
+
 <!--
 **yushin2001/yushin2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
