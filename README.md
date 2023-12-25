@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👩‍🎓 I am a Master student at National Taiwan University
+- 👩‍🎓 I am a graduate student studying Information Management at National Taiwan University
 - 📮 Contact: yushinwu.angela@gmail.com
 
 <!--
